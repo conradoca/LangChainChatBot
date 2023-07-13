@@ -1,0 +1,4 @@
+{
+    "token": "<bearer token>",
+    "VectorStore" : "faiss_index_Test"
+}
